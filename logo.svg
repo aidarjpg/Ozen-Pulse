@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
+  <!-- Icon: circle outline -->
+  <circle cx="40" cy="40" r="28" fill="none" stroke="#1890ff" stroke-width="4"/>
+  <!-- Icon: stylized pulse wave underneath -->
+  <path d="M12,60 
+           L24,50 
+           L32,56 
+           L40,44 
+           L48,60 
+           L60,52 
+           L72,60" 
+        fill="none" stroke="#1890ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text: ózen -->
+  <text x="90" y="40" font-family="Roboto, sans-serif" font-weight="700" font-size="28" fill="#1890ff">
+    ózen
+  </text>
+  <!-- Text: PULSE -->
+  <text x="90" y="62" font-family="Roboto, sans-serif" font-weight="500" font-size="16" fill="#1890ff">
+    PULSE
+  </text>
+</svg>
