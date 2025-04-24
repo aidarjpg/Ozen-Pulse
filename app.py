@@ -26,7 +26,7 @@ def load_data():
 clients, sales, visits, subs, complaints, staff, trainers = load_data()
 
 # --- Сайдбар: логотип, фильтры и навигация ---
-st.sidebar.image("logo.svg", width=200)
+st.sidebar.image("logo.svg", width=550)
 min_date = st.sidebar.date_input("Дата от", visits["Дата и время"].min())
 max_date = st.sidebar.date_input("Дата до", visits["Дата и время"].max())
 # Фильтр по дате
